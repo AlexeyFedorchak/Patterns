@@ -20,8 +20,10 @@
     <p>ChainOfResponsibility: <a href="/ChainOfResponsibility">link</a></p>
     <p>Command: <a href="/Command">link</a></p>
     <p>Iterator: <a href="/Iterator">link</a></p>
+    <p>PatternExample: <a href="/PatternExample">link</a></p>
 </body>
 </html>
+
 
 
 
